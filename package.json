@@ -1,11 +1,23 @@
 {
   "name": "breestable",
   "version": "1.0.0",
-  "description": "",
   "main": "breesTable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianzoll/breesTable.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/christianzoll/breesTable/issues"
+  },
+  "homepage": "https://github.com/christianzoll/breesTable#readme",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^18.0.5"
+  }
 }

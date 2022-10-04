@@ -32,6 +32,8 @@ crawl(makeAnArray); // call
 
 // let run includes() over nesting arrays
 
+// return IndexOf(arr.closest('.tr'))
+
 // if(findNo == true ) {
     // return makeAnArray.indexOf(no.parent.parent.parent.parent || no.closest('.Table__TR.Table__TR--sm.Table__even');)
 // }
